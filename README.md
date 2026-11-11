@@ -1,6 +1,9 @@
 # ESP-NOW_WiFi_Gateway
 A Gateway between ESP-NOW sensors and your WiFi/MQTT/Pushover......etc
 
+This is a first for me, this project has been sponsored by PCBWay, they have provided the PCBs populated with all the SMD components apart from the Xiao ESP32 S3s.
+For PCBs, PCBA, 3D printing and CNC machining visit www.PCBWay.com.
+
 Currently Still awaiting the hardware to test but this is what it should look like
 <img width="1840" height="1183" alt="image" src="https://github.com/user-attachments/assets/d3dd373d-776d-4292-bb3b-342299cdb658" />
 
