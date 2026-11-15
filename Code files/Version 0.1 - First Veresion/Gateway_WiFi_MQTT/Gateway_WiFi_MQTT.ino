@@ -110,12 +110,12 @@ GatewayConfig config;
 Preferences preferences;
 
 // Default fallback values
-const char DEFAULT_WIFI_SSID[] = "Gadjets3";
-const char DEFAULT_WIFI_PASS[] = "M@ttscbu02";
-const char DEFAULT_MQTT_HOST[] = "rattlesnake.rmq.cloudamqp.com";
+const char DEFAULT_WIFI_SSID[] = "SSID";
+const char DEFAULT_WIFI_PASS[] = "PASSWORD";
+const char DEFAULT_MQTT_HOST[] = "MQTT Address";
 const int DEFAULT_MQTT_PORT = 1883;
-const char DEFAULT_MQTT_USER[] = "zrplvfgu:zrplvfgu";
-const char DEFAULT_MQTT_PASS[] = "Ky-4d6ALGPLtLxYaX4n50v4UtiaoCRbi";
+const char DEFAULT_MQTT_USER[] = "MQTT User";
+const char DEFAULT_MQTT_PASS[] = "MQTT Password";
 const char DEFAULT_TOPIC_PRE[] = "espnow/gateway";
 
 // ----------------------------------------------------------------------------
