@@ -4,7 +4,9 @@ A Gateway between ESP-NOW sensors and your WiFi/MQTT/Pushover......etc
 This is a first for me, this project has been sponsored by PCBWay, they have provided the PCBs populated with all the SMD components apart from the Xiao ESP32 S3s.
 For PCBs, PCBA, 3D printing and CNC machining visit www.PCBWay.com.
 
-Currently Still awaiting the hardware to test but this is what it should look like
+## <mark>### This hardware design is solely done by me without AI assistance but the software is written by Gemini AI based on my instructions ###</mark>
+
+
 <img width="1840" height="1183" alt="image" src="https://github.com/user-attachments/assets/d3dd373d-776d-4292-bb3b-342299cdb658" />
 
 This design is the next iteration on from a similar design that used two WEMOS D1 Minis. One improvement over the D1 Mini design is that the Xiao ESP32 S3s use external antennas which means I can add a little more separation between the antennas redcucing the interference between the ESP Radios, the D1 Minis worked OK but the ESP-NOW range was not great with the PCB antenna even with the other ESP radio switched off.  I'm hoping for a better ESP-NOW range with an external antenna design.
